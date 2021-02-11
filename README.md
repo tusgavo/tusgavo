@@ -60,10 +60,6 @@ Here are some ideas to get you started:
 		<img src='https://img.shields.io/badge/code-react-blue?logoWidth=30&labelColor=black&style=for-the-badge&logo=react' alt='React.js'>
 	</a>
 	&emsp;
-	<a href='https://www.php.net/'>
-		<img src='https://img.shields.io/badge/code-php-777BB4?logoWidth=30&labelColor=black&style=for-the-badge&logo=php' alt='PHP'>
-	</a>
-	&emsp;
 	<a href='https://getbootstrap.com/'>
 		<img src='https://img.shields.io/badge/tools-bootstrap-563D7C?logo=bootstrap&logoWidth=30&labelColor=black&style=for-the-badge' alt='Bootstrap'>
 	</a>
