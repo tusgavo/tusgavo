@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋Olá, eu sou [Gustavo de Oliveira]
+# 👋Olá, eu sou Gustavo de Oliveira
 <div style='font-size:1.2em'>
 	Desenvolvedor Front-end 🚀
 	
